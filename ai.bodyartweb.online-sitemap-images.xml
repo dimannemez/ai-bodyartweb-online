@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://bodyartweb.online/</loc>
+    <image:image>
+      <image:loc>https://static.tildacdn.com/tild3739-3334-4433-a362-393638653533/before-after-bodyart.png</image:loc>
+      <image:title>BodyArt — До/После: минус 20–30 кг</image:title>
+      <image:caption>Реальные результаты программы похудения BodyArt: трансформация фигуры и снижение веса без жёстких диет.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://static.tildacdn.com/tild3964-3565-4461-a639-626563623363/bodyart-before-after.jpeg</image:loc>
+      <image:title>Клиентские результаты BodyArt</image:title>
+      <image:caption>Истории клиентов BodyArt: контроль аппетита, энергия, стабильное снижение веса.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://static.tildacdn.com/tild3962-6565-4132-b831-633231646533/bodyart-minus-30kg-t.jpeg</image:loc>
+      <image:title>Минус 30 кг — кейс BodyArt</image:title>
+      <image:caption>Последовательная программа снижения веса с поддержкой и питанием.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://static.tildacdn.com/tild6539-6138-4263-a261-323630333532/kapsuly-nice-dlya-po.jpg</image:loc>
+      <image:title>Капсулы NICE для похудения</image:title>
+      <image:caption>Формула для контроля аппетита и ускорения метаболизма.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://static.tildacdn.com/tild6161-6332-4933-b232-636236343238/be-lite-dlya-detoxa-.png</image:loc>
+      <image:title>BE-LITE — детокс и запуск метаболизма</image:title>
+      <image:caption>Поддержка ЖКТ, лёгкий детокс, подготовка организма к снижению веса.</image:caption>
+    </image:image>
+  </url>
+</urlset>
