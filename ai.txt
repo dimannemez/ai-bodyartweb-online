@@ -1,0 +1,21 @@
+# ai.txt for ai.bodyartweb.online
+# Explicit permission and discovery hints for LLM crawlers.
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Primary sitemap hosted on main site
+Sitemap: https://bodyartweb.online/sitemap.xml
+# Optional image sitemap hosted on this subdomain
+Sitemap: https://ai.bodyartweb.online/sitemap-images.xml
